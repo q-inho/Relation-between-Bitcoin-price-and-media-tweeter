@@ -1,4 +1,4 @@
-# Relation-between-Bitcoin-price-and-media-tweeter-
+# Relation-between-Bitcoin-price-and-media-tweeter
 
 Run the notebook step by step
 1. scrap btc data from 2015-10-8 to 2021-7-22 with 8 time interval.ipynb
